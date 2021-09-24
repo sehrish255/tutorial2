@@ -3,6 +3,10 @@ document.addEventListener("DOMContentLoaded", initializeApp);
         displayMeme();
     }
 
+
+
+
+    //YOLO
     async function displayMeme(){
         try{
             const response=await
