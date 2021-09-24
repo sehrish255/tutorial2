@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", initializeApp);
             //required
             //jsonResponse is object
             console.log(jsonResponse);
-            const meme = jsonResponse.data.memes[1];
+            const meme = jsonResponse.data.memes[2];
 
             //creating an element and assigning src image and name and width
             const image = document.createElement("img");
